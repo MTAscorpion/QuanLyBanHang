@@ -102,3 +102,21 @@ D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\SuperMa
 D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\Dapper.dll
 D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\bin\Debug\Dapper.xml
 D:\HK1N4\Thực tập nhóm\SuperMarket\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett_log.ldf
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\Data\SupperMarkett.mdf
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\Dapper.dll
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\bin\Debug\Dapper.xml
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csprojAssemblyReference.cache
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Admin.resources
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.LoginForm.resources
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.BanHangForm.resources
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.QuanKhoForm.resources
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.GenerateResource.cache
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CoreCompileInputs.cache
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket_New.csproj.CopyComplete
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\KNV\Documents\GitHub\QuanLyBanHang\QL_BanHang\SuperMarket\obj\Debug\SuperMarket.pdb
