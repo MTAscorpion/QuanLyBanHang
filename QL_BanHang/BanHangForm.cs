@@ -226,7 +226,7 @@ namespace SuperMarket
 
         }
         //------------------------------------------------KhachHang-------------------------------------------------------------------
-        public void LoadSearchKH(string TenKH)
+        public void LoadSearchKH(string TenKH)  // timkiem
         {
             string query = "SELECT hd.NgayBan AS[Ngày Bán],kh.Ma AS[Mã KH],kh.Ten AS[Tên],kh.DiaChi AS[Địa Chỉ],kh.SDT as[SĐT],hd.Ma AS[Mã HĐ],hd.ThanhTien AS[Tổng tiền] FROM dbo.KhachHang kh, dbo.HoaDon hd WHERE kh.Ma = hd.MaKH AND kh.Ten LIKE N'%" + TenKH + "%'";
             dataGridView3.DataSource = DataProvider.Instance.ExecuteQuery(query);
