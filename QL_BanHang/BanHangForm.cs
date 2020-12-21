@@ -45,7 +45,7 @@ namespace SuperMarket
             }
         }
         BindingSource SanPham = new BindingSource();
-        void LoadSP()
+        void LoadSP() // Danh sach san pham
         {
             string query = "select Ma as[Mã SP],Ten,DonVi as[Đơn vị],Gia as[Giá],SoLuong as[SL trong kho] from SanPham";
             SanPham.DataSource = DataProvider.Instance.ExecuteQuery(query);
